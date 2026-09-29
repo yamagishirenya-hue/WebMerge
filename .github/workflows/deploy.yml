@@ -1,4 +1,4 @@
-// フォルダまたはファイルを選択してくださいname: Deploy to GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
