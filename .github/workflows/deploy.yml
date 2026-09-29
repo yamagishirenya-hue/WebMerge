@@ -1,4 +1,4 @@
-name: Deploy to GitHub Pages
+// フォルダまたはファイルを選択してくださいname: Deploy to GitHub Pages
 
 on:
   push:
@@ -26,7 +26,7 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-[#] [An internal error occurred in the execution environment.]
+          node-version: 20
           cache: 'npm'
 
       - name: Install dependencies
