@@ -1,0 +1,16 @@
+{
+  "short_name": "WebMerge",
+  "name": "WebMerge Diff Tool",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#0f172a",
+  "theme_color": "#007acc",
+  "display": "standalone"
+}
